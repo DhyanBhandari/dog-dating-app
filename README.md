@@ -1,7 +1,8 @@
 # TinDog 
 
 This repository contains the starting files for the TinDog project. It includes the HTML, CSS that you need to get started.
-
+see live at:
+https://dhyanbhandari.github.io/dog-dating-app/
 # Requirements
 To run the TinDog starter files, you will need the following:
 A web browser
